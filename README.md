@@ -16,4 +16,4 @@ En este repositorio se encuentran:
 2. Archivo .py contenedor del codigo desarrollado para el caso practico del trabajo
 3. El link del video explicativo para el trabajo realizado punto por punto
 
-LINK a YouTube: https://youtu.be/ugy2UuD33l8
+LINK a YouTube: https://youtu.be/wWhGcoSD53s
