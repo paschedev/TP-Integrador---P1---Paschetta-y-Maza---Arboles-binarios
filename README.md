@@ -1,6 +1,7 @@
 # TP Integrador - P1 - Paschetta y Maza - Arboles binarios
 
 Integrantes del grupo:
+    Maza Bruno
     Paschetta Gaston
 
 Docente: Julieta Trape
