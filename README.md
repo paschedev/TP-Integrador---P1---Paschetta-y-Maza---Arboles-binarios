@@ -1,4 +1,12 @@
 # TP Integrador - P1 - Paschetta y Maza - Arboles binarios
+
+Integrantes del grupo:
+    Paschetta Gaston
+
+Docente: Julieta Trape
+
+
+
 TPI que desarrolla el tema "Arboles Binarios" para la materia Programacion 1 de la Tecnicatura Universitaria en Programacion de la UTN
 
 En este repositorio se encuentran:
